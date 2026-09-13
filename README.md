@@ -17,3 +17,8 @@ neljäs tehtävä seurasi toisen tehtävän tapaan hieman muistutusta mieleen, k
 
 kokonaisuutena tarvitsee paljon toistoja ohjelmointiin sekä kaavoja tulee tarvitsemaan paljon jatkossa muistamista varten perusasioissakin.
 
+## moduuli 3
+
+tehtävä 1 suoritus oli kohtalaisen helppo tuoreessa muistissa. Tehtävä 2 kun joutuu palaamaan myöhempinä päivinä tekemään tehtäviä, johtuen työelämän aikatauluista. On niin vaikea muistaa kaavoja oppitunti pdf paketinkin avulla. Olo tuntuu tyhmältä usein:()
+Tehtävä 3 sujui jo mallikkaammin. aluksi rämpytin kaikki if sanan alle joten miesten ja naisten vastaukset menivät sekaisin. myöhemmin tajusin sen vaativan muutoksia, enkä osaa lisätä hemoglobiini arvoihin liitettä g/l autom. vastauksiin.
+
