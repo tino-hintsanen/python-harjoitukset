@@ -27,3 +27,8 @@ Tehtävä 3 sujui jo mallikkaammin. aluksi rämpytin kaikki if sanan alle joten 
 tehätävät 1, 2 ja 4kohtalaisen helppoja, mutta viime tunnin aikana tuli todella paljon infoa ja vaikea muistaa kaikkea.
 
 tehtävät 3 ja 5 hoidettu. Ne olivat haastavampia yrittää funtsia oikeaa tapaa tehdä ne oikein.
+
+
+## moduuli 5
+
+ tehtävät 1 ja 2 hoidettu
