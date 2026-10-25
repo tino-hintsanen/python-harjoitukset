@@ -32,3 +32,8 @@ tehtävät 3 ja 5 hoidettu. Ne olivat haastavampia yrittää funtsia oikeaa tapa
 ## moduuli 5
 
  tehtävät 1 ja 2 hoidettu
+
+
+## moduuli 6 / kertaustehtävät
+
+tein tehtävät 1 - 6 ja 8.
