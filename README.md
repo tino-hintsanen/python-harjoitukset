@@ -37,3 +37,9 @@ tehtävät 3 ja 5 hoidettu. Ne olivat haastavampia yrittää funtsia oikeaa tapa
 ## moduuli 6 / kertaustehtävät
 
 tein tehtävät 1 - 6 ja 8.
+
+## moduuli 6.2
+
+tehtävät vaikuttavat taas todella vaikeilta näiden kanssa tarvitsee tukea
+
+tein tehtävä 1, 2 ja 4
