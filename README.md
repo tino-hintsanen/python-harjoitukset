@@ -43,3 +43,6 @@ tein tehtävät 1 - 6 ja 8.
 tehtävät vaikuttavat taas todella vaikeilta näiden kanssa tarvitsee tukea
 
 tein tehtävä 1, 2 ja 4
+
+## moduuli 7
+tein tehtävät 1 ja 2
